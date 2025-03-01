@@ -26,3 +26,9 @@ print(list2.count(4))
 print(list.count(4))
 list2.clear()
 print(list2)
+
+
+list1=[1,2,3,4]
+list2=[4,5,6,7]
+list3=list1+list2
+print(list3)
